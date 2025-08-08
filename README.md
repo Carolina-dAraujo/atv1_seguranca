@@ -1,7 +1,7 @@
 Ataque real X Simulação:
 
 Ataque Original:
-Invasão do site: o atacante compromete um site legítimo (no caso, o da Rede Record) e injeta um código JavaScript malicioso.
+Invasão do site: o atacante compromete um site legítimo e injeta um código JavaScript malicioso.
 
 Carregamento do Java Applet: esse script malicioso carregava um Applet Java (.jar) escondido na página.
 
